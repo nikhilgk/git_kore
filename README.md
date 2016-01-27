@@ -33,3 +33,5 @@ Four Stage
 
 {"body":"All you’ve got to do is decide to go and the hardest part is over. So go!","author":"Tony Wheeler","source":"Across Asia on the Cheap","source_url":""}-e 
 
+{"body":"于千万人之中遇见你所要遇见的人，于千万年之中，时间的无涯的荒野里，没有早一步，也没有晚一步，刚巧赶上了，那也没有别的话可说，惟有轻轻地问一声：「噢，你也在这里吗？」","author":"张爱玲","source":"《爱》","source_url":""}-e 
+
