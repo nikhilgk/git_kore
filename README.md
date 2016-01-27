@@ -19,3 +19,5 @@ Four Stage
 
 {"body":"每个人都很孤独。在我们的一生中，遇到爱，遇到性，都不稀罕，稀罕的是遇到了解。","author":"廖一梅","source":"《柔软》","source_url":""}-e 
 
+{"body":"The mark of the immature man is that he wants to die nobly for a cause, while the mark of a mature man is that he wants to live humbly for one.","author":"Wilhelm Stekel","source":"","source_url":""}-e 
+
