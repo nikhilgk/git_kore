@@ -21,3 +21,5 @@ Four Stage
 
 {"body":"The mark of the immature man is that he wants to die nobly for a cause, while the mark of a mature man is that he wants to live humbly for one.","author":"Wilhelm Stekel","source":"","source_url":""}-e 
 
+{"body":"Reading after a certain age diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.","author":"Albert Einstein","source":"What Life Means to Einstein: An Interview by George Sylvester Viereck","source_url":"http://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf"}-e 
+
