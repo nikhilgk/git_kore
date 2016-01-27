@@ -35,3 +35,5 @@ Four Stage
 
 {"body":"于千万人之中遇见你所要遇见的人，于千万年之中，时间的无涯的荒野里，没有早一步，也没有晚一步，刚巧赶上了，那也没有别的话可说，惟有轻轻地问一声：「噢，你也在这里吗？」","author":"张爱玲","source":"《爱》","source_url":""}-e 
 
+{"body":"In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since. “Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”","author":"F. Scott Fitzgerald","source":"The Great Gatsby","source_url":""}-e 
+
