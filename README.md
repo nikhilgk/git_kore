@@ -31,3 +31,5 @@ Four Stage
 
 {"body":"我们生来孤单，无数的历史和无限的时间因而破碎成片段。互相埋没的心流，在孤单中祈祷，在破碎处眺望，或可指望在梦中团圆。记忆，所以是一个牢笼。印象是牢笼以外的天空。","author":"史铁生","source":"","source_url":""}-e 
 
+{"body":"All you’ve got to do is decide to go and the hardest part is over. So go!","author":"Tony Wheeler","source":"Across Asia on the Cheap","source_url":""}-e 
+
