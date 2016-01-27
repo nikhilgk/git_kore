@@ -23,3 +23,5 @@ Four Stage
 
 {"body":"Reading after a certain age diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.","author":"Albert Einstein","source":"What Life Means to Einstein: An Interview by George Sylvester Viereck","source_url":"http://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf"}-e 
 
+{"body":"Stay Hungry. Stay Foolish.","author":"","source":"Whole Earth Catalog, October 1974, back cover","source_url":""}-e 
+
