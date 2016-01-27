@@ -17,3 +17,5 @@ Four Stage
 
 {"body":"That which does not kill us makes us stronger.","author":"Friedrich Nietzsche","source":"Twilight of the Idols","source_url":""}-e 
 
+{"body":"每个人都很孤独。在我们的一生中，遇到爱，遇到性，都不稀罕，稀罕的是遇到了解。","author":"廖一梅","source":"《柔软》","source_url":""}-e 
+
