@@ -15,3 +15,5 @@ Four Stage
 
 {"body":"不存在十全十美的文章，就如同不存在彻头彻底的绝望。","author":"村上春树","source":"《且听风吟》","source_url":""}-e 
 
+{"body":"That which does not kill us makes us stronger.","author":"Friedrich Nietzsche","source":"Twilight of the Idols","source_url":""}-e 
+
