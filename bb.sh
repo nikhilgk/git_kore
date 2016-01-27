@@ -1,4 +1,4 @@
 curl random-quotes.herokuapp.com >> README.md
 git add . 
-git commit -m '$(curl -s http://whatthecommit.com/index.txt)'
+sh -c "git commit -m '$(curl -s http://whatthecommit.com/index.txt)'"
 
