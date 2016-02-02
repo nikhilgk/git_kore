@@ -43,3 +43,5 @@ Four Stage
 
 {"body":"For what it’s worth: it’s never too late or, in my case, too early to be whoever you want to be. There’s no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you’re proud of. If you find that you’re not, I hope you have the strength to start all over again.","author":"Eric Roth, Robin Swicord, F. Scott Fitzgerald","source":"The Curious Case of Benjamin Button","source_url":"http://www.imdb.com/title/tt0421715/quotes?item=qt0504699"}-e 
 
+{"body":"我向旧日的恋人道歉，因为我对新人如同初恋。","author":"维斯拉瓦·辛波丝卡","source":"《在一颗小星星底下》","source_url":""}-e 
+
